@@ -1,0 +1,9 @@
+---
+# vars file for instances
+instance_type: t2.micro
+security_group_name: aws_sg
+image: ami-0c7217cdde317cfec
+keypair: ansible
+region: us-east-1
+count: 3
+profile: ansible_rodrigo

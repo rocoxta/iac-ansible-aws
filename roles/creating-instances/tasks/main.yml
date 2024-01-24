@@ -1,0 +1,4 @@
+---
+# tasks file for instances
+# As tarefas da pasta tasks/ vao ser executadas no arquivo provisioning.ylm
+- include: provisioning.ylm
