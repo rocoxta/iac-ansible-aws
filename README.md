@@ -3,9 +3,10 @@
 Projeto que utiliza o Ansible para automatizar a criação de instâncias EC2 na AWS.
 ## Estrutura do repositório:
 ```
+├── LICENSE
+├── README.md
 ├── hosts
 ├── main.yml                         >> Chama as tarefas
-├── README.md
 └── roles                            >> Estrutura do Ansible
     └── creating-instances
         ├── defaults
