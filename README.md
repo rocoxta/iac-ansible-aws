@@ -31,7 +31,7 @@ Projeto que utiliza o Ansible para automatizar a criação de instâncias EC2 na
 - [AWS](https://aws.amazon.com)
 - [Ansible](https://www.ansible.com)
 
-## Preparação do Ambiente
+## Preparação do ambiente
 
 ### Instalação do Ansible:
 
