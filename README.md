@@ -1,7 +1,7 @@
 # Automação AWS usando Ansible
 
 Projeto que utiliza o Ansible para automatizar a criação de instâncias EC2 na AWS.
-## Estrutura do repositório:
+## Estrutura do repositório
 ```
 ├── LICENSE
 ├── README.md
