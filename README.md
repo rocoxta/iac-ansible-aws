@@ -45,7 +45,7 @@ $ sudo apt-get install ansible
 $ sudo apt-get update
 $ sudo apt-get install awscli
 ```
-### Criação de usuário na AWS no IAM
+### Criação de usuário na AWS no IAM:
 ```bash
 - No Console da AWS, vá para o serviço IAM (Identity and Access Management).
 - Crie um novo usuário, atribua-o ao grupo "Admin" para permissões administrativas.
